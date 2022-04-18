@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/drawable/item_list.xml" value="0.24375" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/drawable/outline_logout_24.xml" value="0.24375" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_create_order.xml" value="0.264" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_create_route.xml" value="0.2" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_order.xml" value="0.4" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_order2.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_orders.xml" value="0.264" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/fragment_orders_list.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/item_companies_list.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/item_order.xml" value="0.6" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/item_route.xml" value="0.4" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/layout/nav_header_layout.xml" value="0.4" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/menu/menu_appbar.xml" value="0.303125" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/menu/menu_dropdown_exaple.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/vital/AndroidStudioProjects/ITmarket/app/src/main/res/menu/menu_navigation_view.xml" value="0.22760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
